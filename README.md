@@ -55,6 +55,12 @@ The dataset was cleaned, transformed, and analyzed to generate business-ready in
 
 ---
 
+## 📷 Dashboard Preview
+<img width="1367" height="1001" alt="Global sales " src="https://github.com/user-attachments/assets/9b07614f-453c-4d8f-9c8e-7a9239878f76" />
+
+
+---
+
 ## ✅ Conclusion
 This project demonstrates the ability to transform raw sales transaction data into meaningful business insights using Excel. By leveraging pivot tables, interactive charts, and slicers, the dashboard provides a clear view of sales performance across regions, product categories, and time periods. The final dashboard enables stakeholders to quickly track KPIs, identify trends, and support data-driven decision-making in a real-world business scenario.
 
